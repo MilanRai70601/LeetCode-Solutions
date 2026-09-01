@@ -39,7 +39,7 @@ cin>>nums1[i];
 
     vector<int>res2=Greater(nums1,nums2);
     for(int x: res2){
-        cout<<x<<" ";
+        cout<<x<<" Mn";
     }
     return 0;
 }
