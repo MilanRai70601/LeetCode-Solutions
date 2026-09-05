@@ -40,3 +40,5 @@ int main(){
     cout<<baseGame(s,n);
     return 0;
 }
+
+
